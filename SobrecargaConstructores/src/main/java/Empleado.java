@@ -4,7 +4,7 @@ public class Empleado extends Persona {
     private double sueldo;
     
     public Empleado(String nombre, int edad) {
-        super(nombre, edad);
+        super(nombre, edad);        
     }
     
     public Empleado(String nombre, int edad, double sueldo){
