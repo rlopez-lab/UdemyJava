@@ -10,7 +10,9 @@ public final class ClaseFinal {
     public static final Persona VAR_PERSONA = new Persona();
     
     //Metodo final
-    
+    public final void metodoFinal(){
+        
+    }
     
 }
 
