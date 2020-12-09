@@ -22,5 +22,11 @@ public class EjemploArreglos {
         System.out.println("Arreglo personas indice 1: " + personas[1]);
         System.out.println("Arreglo personas indice 1: " + personas[2]);
         System.out.println("Arreglo personas indice 1: " + personas[3]);
+        
+        //Arreglo notacion simplificada
+        String nombres[] = {"Sara", "Laura", "Carlos", "Carmen"};
+        for (int i = 0; i < nombres.length; i++) {
+            System.out.println("Arreglo string indice: " + i + ": " + nombres[i]);
+        }
     }
 }
