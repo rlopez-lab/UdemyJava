@@ -14,7 +14,7 @@ public class Producto {
    }
    
    //Constructor sobrecargado
-   public Producto(String nombre, double Precio){
+   public Producto(String nombre, double precio){
        this();
        this.nombre = nombre;
        this.precio = precio;
